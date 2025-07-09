@@ -40,4 +40,4 @@ proiect-pki/
 │   ├── web_script.sh      # Configurare Web Server cu HTTPS și mTLS
 │   └── client.sh          # Import certificat client în browser
 ├── LICENSE                # Licență MIT
-├── README.md              # Acest fișier
+├── README.md              
